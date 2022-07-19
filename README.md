@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GuiRosario
 - 👀 I’m interested in games, music, technology
-- 🌱 I’m currently learning html, css, javascript, react, flutter
+- 🌱 I’m currently learning mysql,python,django
 - 💞️ I’m looking to collaborate on cool open source projects
 - 📫 How to reach me email: gdasilvarosario@gmail.com
 
