@@ -1,10 +1,11 @@
-- 👋 Hi, I’m @GuiRosario
-- 👀 I’m interested in games, music, technology
-- 🌱 I’m currently learning mysql,python,django, react, javascript
-- 💞️ I’m looking to collaborate on cool open source projects
-- 📫 How to reach me email: gdasilvarosario@gmail.com
+## 👋 Hi, I’m Guilherme (@GuiRosario)
 
-<!---
-GuiRosario/GuiRosario is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+💻 I'm currently working as a **Systems Analyst** at the **Secretary of Education of Tocantins**.  
+⚙️ I develop web applications using **JavaScript (React)** on the front-end and **Python (Django)** on the back-end.  
+🌱 I’m currently learning **PHP with Laravel** to expand my full-stack skills.  
+🎮 My main interests are **cars, games, and music** — and I’m always curious to explore new technologies and learn more every day.  
+
+📫 You can reach me at: **gdasilvarosario@gmail.com**
+
+---
+✨ Always learning. Always building. 🚀
